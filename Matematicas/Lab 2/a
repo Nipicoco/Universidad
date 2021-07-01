@@ -1,0 +1,21 @@
+decision=int(input("\n1.Decimal a Binario\n2.Decimal a Octal\n3.Decimal a Hexadecimal\n4.Octal a Decimal\n5.Octal a binario\n6.Octal a Hexadecimal\n7.Hexadecimal a Decimal\n8.Hexadecimal a Octal\n9.Hexadecimal a Binario\n\nIngresar numero para empezar el programa:"))
+if decision==1:
+   dec = int(input("Ingresar numero en decimal: "))
+   decimal = int(dec)
+   print(decimal, " en Binario : ", bin(decimal))
+   list=[dec]
+elif decision==2:
+     
+
+
+def decimal_octal(dec):
+    decimal = int(dec)
+  
+
+    print(decimal, " en Octal : ", oct(decimal))
+
+def decimal_hexa(dec):
+    decimal = int(dec)
+  
+
+    print(decimal, " en Hexadecimal : ", hex(decimal))
