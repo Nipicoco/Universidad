@@ -1,0 +1,15 @@
+
+                 ----[ << CARTA >> ]----
+                          
+         Este es un demo de como se puede enviar
+         varias cadenas de texto por comunicacion
+         serial en python.
+
+         Si quieres ser exitoso profesionalmente,
+         debes estudiar y practicar mucho el arte
+         de la programacion.
+
+
+                     By Alberto Caro
+         
+       
